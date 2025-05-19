@@ -207,7 +207,7 @@ html {
         height: auto;
         padding-bottom: 2.4em;
         opacity: 0;
-        background-color: #eb6100;
+        background-color: #da5b00;
         box-shadow: inset rgba(0, 0, 0, 0.2) 0px 8px 24px;
         overflow: hidden;
         position: absolute;
@@ -311,7 +311,7 @@ html {
         padding: 0 1rem;
         /* prevents padding and border from affecting height and width */
         box-sizing: border-box;
-        background-color: #eb6100;
+        background-color: #da5b00;
         box-shadow: rgba(141, 148, 155, 0.2) 8px 8px 24px;
         position: fixed;
         z-index: 10000;
@@ -444,7 +444,7 @@ html {
 }
 /* Button used to open the contact form - fixed at the bottom of the page */
 .open-button {
-  background-color: #eb6100;
+  background-color: #da5b00;
   color: white;
   padding: 3rem 5rem;
   border: none;
@@ -496,7 +496,7 @@ html {
 
 /* Set a style for the submit/login button */
 .form-container .btn {
-  background-color: #eb6100;
+  background-color: #da5b00;
   color: white;
   padding: 16px 16px;
   border: none;
@@ -895,7 +895,7 @@ html {
       to right,
       #df5d00,
       #ffc195,
-      #eb6100
+      #da5b00
   );
   background-size: 100% 3px, 0 3px;
   background-position: 100% 100%, 0 100%;
@@ -1394,7 +1394,7 @@ html {
   }
   #contact-2320 .cs-submit {
     text-transform: uppercase;
-    background-color: #eb6100;
+    background-color: #da5b00;
     color: #ffffff;
     border: none;
     transition: color 0.3s;
@@ -1852,7 +1852,7 @@ html {
       overflow: hidden;
       position: relative;
       z-index: 10;
-      background-color: #eb6100;
+      background-color: #da5b00;
       /* Navigation Links */
   }
   #cs-footer-1292 .cs-container {
@@ -2200,7 +2200,7 @@ html {
 
 :root {
   /* Add these styles to your global stylesheet, which is used across all site pages. You only need to do this once. All elements in the library derive their variables and base styles from this central sheet, simplifying site-wide edits. For instance, if you want to modify how your h2's appear across the site, you just update it once in the global styles, and the changes apply everywhere. */
-  --primary: #eb6100;
+  --primary: #da5b00;
   --primaryLight: #ffba43;
   --secondary: #ffba43;
   --secondaryLight: #ffba43;
